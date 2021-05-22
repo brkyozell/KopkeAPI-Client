@@ -4,7 +4,7 @@ Turkish meme api
 ## Nasıl kullanılır?
 Baya basit. Öncelikle Node.JS'nin kurulu olduğundan emin olun(dostum sadece şaka yapıyorum).
 
-npm i github:brkyozell/KopkeAPI-Client yazarak projenize ekleyin.
+`npm i github:brkyozell/KopkeAPI-Client` yazarak projenize ekleyin.
 Bu kadar!
 
 ## Örnek Kullanım
