@@ -1,0 +1,16 @@
+  
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "name": "KopkeAPI-Client",
+  "version": "1.0.0",
+  "description": "kopkeapi.glitch.me",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "brkyozell",
+  "license": "MIT"
+}
